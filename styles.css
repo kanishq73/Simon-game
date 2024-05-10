@@ -77,7 +77,11 @@ body {
     box-shadow: 0 0 20px white;
     background-color: grey;
   }
-  
+
+u{
+    font-size: 1.4em;
+  }
+
 .info{
   position: absolute;
   text-align: left;
